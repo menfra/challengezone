@@ -1,0 +1,10 @@
+C:\Users\Daniels\source\repos\ContactForm\ContactForm\bin\Debug\ContactForm.exe.config
+C:\Users\Daniels\source\repos\ContactForm\ContactForm\bin\Debug\ContactForm.exe
+C:\Users\Daniels\source\repos\ContactForm\ContactForm\bin\Debug\ContactForm.pdb
+C:\Users\Daniels\source\repos\ContactForm\ContactForm\obj\Debug\ContactForm.csprojAssemblyReference.cache
+C:\Users\Daniels\source\repos\ContactForm\ContactForm\obj\Debug\ContactForm.Form1.resources
+C:\Users\Daniels\source\repos\ContactForm\ContactForm\obj\Debug\ContactForm.Properties.Resources.resources
+C:\Users\Daniels\source\repos\ContactForm\ContactForm\obj\Debug\ContactForm.csproj.GenerateResource.cache
+C:\Users\Daniels\source\repos\ContactForm\ContactForm\obj\Debug\ContactForm.csproj.CoreCompileInputs.cache
+C:\Users\Daniels\source\repos\ContactForm\ContactForm\obj\Debug\ContactForm.exe
+C:\Users\Daniels\source\repos\ContactForm\ContactForm\obj\Debug\ContactForm.pdb
