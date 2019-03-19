@@ -23,4 +23,18 @@ Below are the TODO list for the next few weeks
 2. You will be notified once the grade given
 
 
-
+## Submission contains
+1. Code
+2. Database Script for collection
+   a.  show databases
+   b.  use task3_db
+   b.  db.Task3.insert([{fname:'Royal' ,
+                      mname:'Kennedy' ,
+                      lname:'Mascer' ,
+                      Add1:'F.0.6' ,
+                      Add2:'PeterHelliweg',
+                      DOB:'01-01-1990' ,
+                      City:'Paderborn' ,
+                      State:'NRW' ,
+                      Country:'Germany'},
+                      ])
