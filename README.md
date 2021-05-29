@@ -45,4 +45,18 @@ NB: Please use proper naming conventions for your variables and controls. You ca
 3. Happy coding!!!
 
 
-
+## Submission contains
+1. Code
+2. Database Script for collection
+   a.  show databases
+   b.  use task3_db
+   b.  db.Task3.insert([{fname:'Royal' ,
+                      mname:'Kennedy' ,
+                      lname:'Mascer' ,
+                      Add1:'F.0.6' ,
+                      Add2:'PeterHelliweg',
+                      DOB:'01-01-1990' ,
+                      City:'Paderborn' ,
+                      State:'NRW' ,
+                      Country:'Germany'},
+                      ])
